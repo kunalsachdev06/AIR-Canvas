@@ -91,7 +91,7 @@
 Kunal Sachdev
 Passionate about human-computer interaction, computer vision, and building accessible tech.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kunal-sachdev-1343ba1b7/)
+🔗 [LinkedIn](https://www.linkedin.com/in/kunal-sachdev-1343ba1b7/)  
 💻 [GitHub](https://github.com/kunalsachdev06)
 
 
